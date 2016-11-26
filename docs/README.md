@@ -17,6 +17,7 @@
 - [CSS](css)
   - [`styled-components`](css/styled-componets.md)
   - [sanitize.css](css/sanitize.md)
+  - [Using Sass](css/sass.md)
 - [JS](js)
   - [Redux](js/redux.md)
   - [ImmutableJS](js/immutablejs.md)
